@@ -1,11 +1,11 @@
-About python-mistralclient
-==========================
+About python-mistralclient-feedstock
+====================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/python-mistralclient-feedstock/blob/main/LICENSE.txt)
 
 Home: https://docs.openstack.org/python-mistralclient/latest/
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/python-mistralclient-feedstock/blob/main/LICENSE.txt)
 
 Summary: Mistral Client Library
 
