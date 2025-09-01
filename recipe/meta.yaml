@@ -1,5 +1,5 @@
 {% set name = "python-mistralclient" %}
-{% set version = "5.4.0" %}
+{% set version = "6.0.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name | replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: 38e34060e89cf2bef4d750f131f61f86a45738d345d0d3918061c76e3f04d968
+  sha256: 2084033aeb4eab02aa9f35914b235019a67a06ea5ee2b9999b72ea27fe4585f0
 
 build:
   number: 0
