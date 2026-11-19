@@ -1,5 +1,5 @@
 {% set name = "python-mistralclient" %}
-{% set version = "6.3.0" %}
+{% set version = "6.4.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/{{ name | replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: e12850903fc479794e528447c83f8d983fa677cf0dba25f942c2a2bc9d0d68de
+  sha256: cca5cd88ddefdaf1375a62049150d96a4841171a2c5fa306ed8b3f3544ddc107
 
 build:
   number: 0
